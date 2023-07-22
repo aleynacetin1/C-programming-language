@@ -25,7 +25,7 @@ int main(void)
     else
     {
         costTrip=1+costGas;
-        printf(" %.2lf",costTrip/(passengers+1); }
+        printf(" %.2lf",costTrip/(passengers+1)); }
 
     return 0;
 }
