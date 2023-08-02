@@ -3,3 +3,6 @@ wrong compute space.c
 pointers.c
 pointer arithmetic.c
 double arrays.c
+matrices.c
+store multiple strings in an array.c
+store strings in an array using pointers.c
