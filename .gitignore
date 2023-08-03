@@ -6,3 +6,4 @@ double arrays.c
 matrices.c
 store multiple strings in an array.c
 store strings in an array using pointers.c
+malloc and free functions.c
