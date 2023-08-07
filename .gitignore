@@ -14,3 +14,5 @@ size of structures.c
 1.2-link nodes.c
 1.3-print a linked list of number.c
 1.5-free all space.c
+2.0-search a linked list.c
+2.2-sort a linked list.c
